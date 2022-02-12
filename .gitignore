@@ -1,0 +1,10 @@
+/system/storage/cache
+/system/storage/logs
+/image/cache
+/.idea
+/config - Copy.php
+/admin/config - Copy.php
+/config.php
+/admin/config.php
+/catalog/controller/common/banner.php
+/knet/resource.cgz
